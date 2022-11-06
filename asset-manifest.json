@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.61a07f10.css",
-    "main.js": "/static/js/main.b25c4b18.js",
-    "static/js/787.be8b36a7.chunk.js": "/static/js/787.be8b36a7.chunk.js",
-    "static/media/league-gothic.ttf": "/static/media/league-gothic.6ae9138268fe16d7ac7a.ttf",
-    "static/media/league-gothic.woff": "/static/media/league-gothic.080eee2aba44573fce6d.woff",
-    "static/media/league-gothic.eot": "/static/media/league-gothic.12baac5d377da4eb8880.eot",
-    "index.html": "/index.html",
-    "main.61a07f10.css.map": "/static/css/main.61a07f10.css.map",
-    "main.b25c4b18.js.map": "/static/js/main.b25c4b18.js.map",
-    "787.be8b36a7.chunk.js.map": "/static/js/787.be8b36a7.chunk.js.map"
+    "main.css": "/diapositives/static/css/main.ce4251b3.css",
+    "main.js": "/diapositives/static/js/main.3841c6ac.js",
+    "static/js/787.be8b36a7.chunk.js": "/diapositives/static/js/787.be8b36a7.chunk.js",
+    "static/media/league-gothic.ttf": "/diapositives/static/media/league-gothic.6ae9138268fe16d7ac7a.ttf",
+    "static/media/league-gothic.woff": "/diapositives/static/media/league-gothic.080eee2aba44573fce6d.woff",
+    "static/media/league-gothic.eot": "/diapositives/static/media/league-gothic.12baac5d377da4eb8880.eot",
+    "index.html": "/diapositives/index.html",
+    "main.ce4251b3.css.map": "/diapositives/static/css/main.ce4251b3.css.map",
+    "main.3841c6ac.js.map": "/diapositives/static/js/main.3841c6ac.js.map",
+    "787.be8b36a7.chunk.js.map": "/diapositives/static/js/787.be8b36a7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.61a07f10.css",
-    "static/js/main.b25c4b18.js"
+    "static/css/main.ce4251b3.css",
+    "static/js/main.3841c6ac.js"
   ]
 }
