@@ -1,5 +1,6 @@
 {
   "name": "4e4-diapositive",
+  "homepage": "/diapositives",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
