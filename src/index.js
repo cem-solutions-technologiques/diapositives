@@ -7,39 +7,7 @@ import 'reveal.js/dist/reveal.css'
 import 'reveal.js/dist/theme/solarized.css'
 
 
-import Reveal from 'reveal.js';
-import Highlight from 'reveal.js/plugin/highlight/highlight.esm.js';
-import Math from 'reveal.js/plugin/math/math.esm.js';
-import Notes from 'reveal.js/plugin/notes/notes.esm.js';
-import Search from 'reveal.js/plugin/search/search.esm.js';
-import Zoom from 'reveal.js/plugin/zoom/zoom.esm.js';
 
-
-let deck = new Reveal({
-  plugins: [ window.RevealMarkdown,Highlight,Math,Notes,Search,Zoom, window.RevealMenu   ]
-})
-deck.initialize({
-  controls: true,
-    progress: true,
-    history: true,
-    center: true,
-    transition: 'zoom',
-    slideNumber: 'c/t',
-
-    menu: {
-      side: 'left',
-      numbers: false,
-      titleSelector: 'h1, h2, h3, h4, h5, h6',
-      hideMissingTitles: false,
-      markers: false,
-      custom: false,
-      transitions: true,
-      openButton: true,
-      openSlideNumber: true,
-      keyboard: true
-  },
-
-});
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
